@@ -14,11 +14,11 @@
     "text": "ഞാൻ ഭാവി കണ്ട് നോക്കുമ്പോൾ, എന്റെ പ്രതീക്ഷകൾ ജീവിതയാത്രയിൽ ഒരു വിളക്ക് പോലെ എന്നെ മാർഗ്ഗനിർദ്ദേശം ചെയ്യുന്നു. ആളുകൾക്ക് തമ്മിൽ കൂടുതൽ ബന്ധവും മനസ്സിലാക്കലും വളർത്തുക എന്ന എന്റെ സ്വപ്നം, സഹനഭവവും പങ്കുവെക്കുന്ന അനുഭവങ്ങളും ഉപയോഗിച്ച് അകറ്റുകളെ പൂർത്തിയാക്കുക എന്നതാണ്. വ്യക്തിപരമായി, വളർച്ചയും ചിന്താശീലവും സ്വീകരിക്കാൻ ഞാൻ ശ്രമിക്കുന്നു, എന്നും പഠിക്കാനും വളർന്നുമാത്രം പോകുന്നു. സുസ്ഥിരതയെ മുൻനിരയിൽ വെക്കുന്ന ലോകത്തിനായുള്ള എന്റെ പ്രതീക്ഷയും, പരിസ്ഥിതി സംരക്ഷണത്തിന് പിന്തുണ നൽകുന്നതിന് ഞാൻ പ്രതിജ്ഞാബദ്ധനാണ്. അവസാനം, ദിവസേനയുള്ള സന്തോഷവും ഉദ്ദേശവും കണ്ടെത്താൻ ഞാൻ ശ്രമിക്കുന്നു, ജീവിതത്തിലെ ചെറിയ കാര്യങ്ങൾ വിലമതിച്ച് അവ വിനോദകരമാക്കുന്നു. ഈ പ്രതീക്ഷകൾ എന്റെ പ്രവർത്തനങ്ങൾ ആകർഷിക്കുന്നു, കൂടാതെ ഞങ്ങൾ എല്ലാവരും സൃഷ്ടിക്കേണ്ട സ poz ആകൃതി പ്രചോദിപ്പിക്കുന്നു."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Blog",
+    "objectID": "posts/ente pradeekshakal/index.html",
+    "href": "posts/ente pradeekshakal/index.html",
+    "title": "travel",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\ntravel\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nJulian\n\n\n\n\n\n\n\n\n\n\n\n\nഎന്റെ പ്രതീക്ഷകൾ: പ്രകാശമുള്ള ഭാവിയിലേക്ക് ഒരു ദർശനം\n\n\n\n\n\n\nperspectives\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nAsher Mathew\n\n\n\n\n\n\n\n\n\n\n\n\ntravel\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nJulian\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!"
   },
   {
     "objectID": "about.html",
@@ -28,11 +28,18 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/ente pradeekshakal/index.html",
-    "href": "posts/ente pradeekshakal/index.html",
-    "title": "travel",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\ntravel\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nJulian\n\n\n\n\n\n\n\n\n\n\n\n\nഎന്റെ രാജ്യത്തെക്കുറിച്ച്: ഒരു സ്നേഹമുള്ള അവലോകനം\n\n\n\n\n\n\nplace\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nAsher Mathew\n\n\n\n\n\n\n\n\n\n\n\n\nഎന്റെ പ്രതീക്ഷകൾ: പ്രകാശമുള്ള ഭാവിയിലേക്ക് ഒരു ദർശനം\n\n\n\n\n\n\nperspectives\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nAsher Mathew\n\n\n\n\n\n\n\n\n\n\n\n\ntravel\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nJulian\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/ente_raajyam/index.html",
+    "href": "posts/ente_raajyam/index.html",
+    "title": "എന്റെ രാജ്യത്തെക്കുറിച്ച്: ഒരു സ്നേഹമുള്ള അവലോകനം",
+    "section": "",
+    "text": "എന്റെ സ്വന്തം ദേശം, അതിന്റെ പരിസരങ്ങൾ, സംസ്കാരം, ഭാഷ, എല്ലാം ഒന്നിച്ച് ഒരു എതിർവിരുദ്ധമായ പ്രണയം തന്നെയാണ്. നമ്മുടെ രാജ്യം വിശേഷിപ്പിക്കുമ്പോൾ, അതിന്റെ സമ്പന്നമായ ചരിത്രവും, ഉജ്വലമായ നാടും, വൈവിധ്യമാർന്ന സംസ്കാരവും ആദരവോടെ ഓർക്കാം.\nനമ്മുടെ ദേശത്തിന്റെ പ്രകൃതിദത്ത സൗന്ദര്യം നിരന്തരം അത്ഭുതിപ്പിക്കുന്നതാണ്—കപട മലകൾ, പച്ചപ്പുള്ള കാടുകൾ, സുന്ദരമായ നദികൾ. ഈ പ്രകൃതിദത്ത നിക്ഷേപങ്ങൾ നമ്മുടെ ദേശത്തിന്റെ മനോഹാരിതയെ വർദ്ധിപ്പിക്കുന്നു, കൂടാതെ നമ്മുടെ ജീവന്റെ ഭാഗമാണെന്നും പറയാം.\nസാംസ്കാരികമായി, നമ്മുടെ രാജ്യത്തിന്റെ സമ്പത്തായി നിലകൊള്ളുന്ന പാരമ്പര്യങ്ങളും, കലയുടെയും, സംഗീതത്തിന്റെയും, സാഹിത്യത്തിന്റെയും ഘടകങ്ങളാണ്. ഈ പാരമ്പര്യങ്ങൾ, തലമുറകളുടെ സൃഷ്ടികളുടെയും, പ്രതിഭകളുടെയും, കഥകളുടെയും മാതൃകയാണ്."
   },
   {
     "objectID": "posts/post-with-code/index.html",
